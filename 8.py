@@ -2,6 +2,8 @@ import turtle
 from time import sleep
 t = turtle.Turtle()
 
+####################################
+
 # t.color(1,0.1,0.34)
 # t.begin_fill()
 # for i in range(40):
@@ -18,4 +20,5 @@ def rang(x,y):
 
 import random
 for n in range(500):
+
     rang('#FFCA4D',n)
